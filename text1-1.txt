@@ -1,0 +1,10 @@
+Agile
+======
+Description:
+============
+Agile is a software development approach where work is done in small, continuous iterations with regular feedback.
+It focuses on flexibility, teamwork, and delivering working software quickly instead of waiting till the end.
+
+Flow:
+======
+Requirements → Planning → Design → Development → Testing → Deployment → Feedback → (Repeat Cycle)

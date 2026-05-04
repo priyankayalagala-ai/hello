@@ -1,0 +1,14 @@
+Difference b/w Tradetional vs Agile
+
+Description:
+============
+Traditional model develops the entire software at once with limited flexibility for changes.
+Agile model develops software in small parts with continuous testing and easy adaptation to changes.
+
+ Flow:-
+
+Traditional 
+Requirement → Design → Development → Testing → Deployment
+
+Agile
+Plan → Design → Develop → Test → Release → Feedback → Repeat

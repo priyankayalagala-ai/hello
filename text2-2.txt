@@ -1,0 +1,10 @@
+Team Collaboration
+===================
+Description
+============
+Team collaboration is when team members work together, share ideas, and communicate to achieve a common goal.
+It improves productivity, problem-solving, and ensures tasks are completed efficiently.
+
+Flow
+=====
+Communication → Task Sharing → Work Together → Review → Feedback → Improve

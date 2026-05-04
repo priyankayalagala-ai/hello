@@ -1,0 +1,10 @@
+Software Life Cycle
+=====================
+Description
+============
+Software Life Cycle (SDLC) is the process used to develop software step by step from start to finish.
+It ensures proper planning, development, testing, and delivery of quality software.
+
+Flow:
+====
+Requirements → Planning → Design → Development → Testing → Deployment → Maintenance

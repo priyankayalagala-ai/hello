@@ -1,0 +1,10 @@
+What is Scrum
+==============
+Description
+============
+Scrum is an Agile framework used to manage and complete work in short cycles called sprints.
+It focuses on teamwork, regular meetings, and continuous improvement to deliver better results.
+
+Flow
+=====
+Product Backlog → Sprint Planning → Development (Sprint) → Daily Standup → Review → Retrospective → Repeat

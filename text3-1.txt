@@ -1,0 +1,10 @@
+What is Jira
+=============
+Description
+============
+Jira is a project management and issue-tracking tool used to plan, track, and manage software development tasks.
+It helps teams organize work, assign tasks, and monitor progress in Agile projects.
+
+Flow
+=====
+Create Task → Assign → Work → Track Progress → Review → Complete
